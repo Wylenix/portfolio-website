@@ -78,13 +78,12 @@ export const projectsData = [
     title: "En cours de réalisation",
     description:
       "Si rapiunt rapacium nisi nobis volatu optandi nec inveniri dispexerint inmorantur discursantes inmorantur ",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["React", "Next.js", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
 
 export const skillsData = [
-  "JavaScript",
   "TypeScript",
   "React",
   "Next.js",
@@ -93,6 +92,5 @@ export const skillsData = [
   "Tailwind",
   "Prisma",
   "MongoDB",
-  "Redux",
   "Framer Motion",
 ] as const;

@@ -31,7 +31,7 @@ export default function About() {
         </span>{" "}
         ce qui a été une aventure intense et enrichissante. J'ai finalement
         décidé de revenir à ma première passion{" "}
-        <span className="underline">la programmation. </span>J'adore donnée vie
+        <span className="underline">la programmation.</span> J'adore donnée vie
         à la data et me penché sur la résolution de problème. Dans un premier
         temps ma stack s'articule autour de{" "}
         <span className="font-medium">React, Next.js et Typescript</span>.

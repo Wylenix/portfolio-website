@@ -70,15 +70,13 @@ export const projectsData = [
   },
   {
     title: "En cours de réalisation",
-    description:
-      "Si rapiunt rapacium nisi nobis volatu optandi nec inveniri dispexerint inmorantur discursantes inmorantur",
+    description: "Projet en cours de réalisation",
     tags: ["React", "TypeScript", "Next.js", "Tailwind"],
     imageUrl: rmtdevImg,
   },
   {
     title: "En cours de réalisation",
-    description:
-      "Si rapiunt rapacium nisi nobis volatu optandi nec inveniri dispexerint inmorantur discursantes inmorantur ",
+    description: "Projet en corus de réalisation",
     tags: ["React", "Next.js", "Tailwind", "Framer"],
     imageUrl: wordanalyticsImg,
   },
